@@ -1,0 +1,5 @@
+<resources>
+    <string name="linkScheme">https</string>
+    <string name="linkHost">example.com</string>
+    <string name="linkPathPrefix">/example/prefix</string><!-- leading slash is important -->
+</resources>
